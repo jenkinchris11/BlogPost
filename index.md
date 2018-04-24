@@ -1,21 +1,24 @@
 ### Game Information
 In a city that made it their goal to forget the past and look towards the future, mysterious figures and factions have invaded a futuristic, sci-fi world. You – a rookie operator – must deal with these threats by any means necessary. The stages are as follows:
 
-VIKINGS – Large amounts of enemies means good positioning and AoE shots are needed.
-SAMURAI – Enemies move quickly and dodge often. High accuracy and skill is required.
-EGYPTIANS – A high amount of projectiles can make this area quite the bullet hell. Keep your dodge game strong!
-ROMANS – Enemies here are smarter than most and form tough formations. Use your knowledge of bullet types to win!
+- VIKINGS – Large amounts of enemies means good positioning and AoE shots are needed.
+- SAMURAI – Enemies move quickly and dodge often. High accuracy and skill is required.
+- EGYPTIANS – A high amount of projectiles can make this area quite the bullet hell. Keep your dodge game strong!
+- ROMANS – Enemies here are smarter than most and form tough formations. Use your knowledge of bullet types to win!
 
 Blast enemies away in a 2.5D, top-down shooter, within a world mixed with both sci-fi and historical elements.
 Low-poly artstyle with vibrant & colourful palate, complete with a non-serious tone suitable for most ages. 
 Simple controls (shoot, slide, and move) that are easy to learn but hard to master, with a moderate difficulty curve. That are as follows:
 
+
 Left Mouse = Shoot
 Left Shift = Dash
+
 W = Up
 A = Left
 S =	Down
 D =	Right
+
 Esc/P =	Pause
 U =	Back to hub
 
