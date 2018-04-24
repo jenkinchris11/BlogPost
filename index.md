@@ -11,4 +11,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Individual Blog Posts
 
 
-##Chris Jenkin
+### Chris Jenkin
