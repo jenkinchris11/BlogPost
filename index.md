@@ -23,7 +23,7 @@ Esc/P =	Pause
 U =	Back to hub
 
 ### Game Video
-
+Link to The Video - https://youtu.be/_gBOBZXSeDs
 
 ### Individual Blog Posts
 
